@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+.left{
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+	border:1px solid black;
+}
+.right{
+	text-align:right;
+	border:1px solid black;
+}
+#table-1{
+	width:100%;
+	height:100%;
+}
+#table-2{
+	width:100%;
+	height:100%;
+	margin-top:20px;
+}
+.middle{
+	*{border:1px solid black;
+	 }
+	
+}
+#table-3{
+	width:100%;
+	height:100%;
+	margin-top:20px;
+}
+#table-3>img{
+	align-items:center;
+}
