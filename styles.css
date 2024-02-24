@@ -21,6 +21,8 @@
 }
 .middle{
 	*{border:1px solid black;
+	  cell-padding:1px;
+	  spacing:1px;
 	 }
 	
 }
